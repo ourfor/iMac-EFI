@@ -16,16 +16,22 @@
 	</data>
 	<key>SystemAudioVolume</key>
 	<data>
-	MA==
+	Lg==
 	</data>
 	<key>SystemAudioVolumeDB</key>
 	<data>
-	8A==
+	7g==
 	</data>
 	<key>backlight-level</key>
 	<data>
-	CgE=
+	//8=
 	</data>
+	<key>bluetoothActiveControllerInfo</key>
+	<data>
+	byFcCgAAAADgFBhPMvJgrg==
+	</data>
+	<key>boot-args</key>
+	<string></string>
 	<key>bootercfg</key>
 	<data>
 	KAA=
@@ -135,7 +141,7 @@
 	</data>
 	<key>fmm-computer-name</key>
 	<data>
-	U2FnaXTigJlzIE1hY0Jvb2sgQWly
+	aU1hYw==
 	</data>
 	<key>install-product-url</key>
 	<data>
@@ -144,7 +150,7 @@
 	</data>
 	<key>prev-lang:kbd</key>
 	<data>
-	emgtSGFucy1DTjoyNTI=
+	emgtSGFucy1DTjow
 	</data>
 	<key>previous-system-uuid</key>
 	<data>
