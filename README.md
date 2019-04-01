@@ -11,6 +11,7 @@
 - [usbinjectall](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
 - [fake-pci-id](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [brcmpatchram](https://bitbucket.org/RehabMan/os-x-brcmpatchram)
+- [Applealc](https://github.com/acidanthera/AppleALC.git)
 
 
 # 工具
