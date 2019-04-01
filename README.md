@@ -12,6 +12,7 @@
 - [fake-pci-id](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
 - [brcmpatchram](https://bitbucket.org/RehabMan/os-x-brcmpatchram)
 - [Applealc](https://github.com/acidanthera/AppleALC.git)
+- [nulletchernet](https://bitbucket.org/RehabMan/os-x-null-ethernet)
 
 
 # 工具
