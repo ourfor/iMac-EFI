@@ -18,3 +18,4 @@
 - [maciasl](https://bitbucket.org/RehabMan/os-x-maciasl-patchmatic)
 - [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
 - [Clover官网](https://sourceforge.net/projects/cloverefiboot/)
+- [Hacktool](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
