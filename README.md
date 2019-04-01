@@ -9,3 +9,12 @@
 - [Lilu](https://github.com/acidanthera/Lilu)
 - [Whatevergreen](https://github.com/acidanthera/WhateverGreen)
 - [usbinjectall](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
+- [fake-pci-id](https://bitbucket.org/RehabMan/os-x-fake-pci-id)
+- [brcmpatchram](https://bitbucket.org/RehabMan/os-x-brcmpatchram)
+
+
+# 工具
+
+- [maciasl](https://bitbucket.org/RehabMan/os-x-maciasl-patchmatic)
+- [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
+- [Clover官网](https://sourceforge.net/projects/cloverefiboot/)
