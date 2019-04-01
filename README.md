@@ -20,3 +20,7 @@
 - [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
 - [Clover官网](https://sourceforge.net/projects/cloverefiboot/)
 - [Hacktool](https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html)
+
+# 推荐的BIOS设置
+
+![](https://ws1.sinaimg.cn/large/005GQrpLgy1g1n1udzykdj30r30aiac8.jpg)
